@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @loveAI0
-- 👀 I’m interested in Artificial Intelligence and Cyber Security.
+- 👀 I investigate cyber incident and an aspiring SOC analyst.
 - 🌱 I’m currently learning Data structure and Alogrithms using Python.
 - 💞️ I’m looking to collaborate in future with the curious minds for mutual co-operation in Learning. As a beginner, I am looking forward to learn more to shape my future of greater good.
 
